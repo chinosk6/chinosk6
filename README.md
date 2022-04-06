@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinosk114514&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinosk114514&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [1]:https://123.com
 [2]:https://qwq.com
 
