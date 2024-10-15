@@ -1,11 +1,25 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinosk6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Chinosk's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinosk6&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31sqkm3fezdd46nlj5imytkag4v4&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sqkm3fezdd46nlj5imytkag4v4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=chinosk6&count_private=true&show_icons=true" />
+      </a>
+      <br>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinosk6&layout=compact" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
-[1]:https://123.com
-[2]:https://qwq.com
 
 <!--
 **chinosk114514/chinosk114514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
